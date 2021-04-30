@@ -1,0 +1,53 @@
+#Foto{
+    margin: auto;
+    display: block;
+    width: 400px;
+    height: 220px;
+    padding-top: 50px;
+    margin-top: 6px;
+    padding-bottom: 11px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    padding-top: 19px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+
+#Buton{
+    background: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    margin-top: 50px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 140px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#id1{
+    background-color: #c5c3c3;
+    margin-left:auto;
+    margin-right: auto;
+    height: 610px;
+    width: 510px;
+    display: block;
+}
+
+#Texto{
+    text-align: justify;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding-top: 8px;
+}
